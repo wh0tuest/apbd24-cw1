@@ -7,5 +7,3 @@ Console.WriteLine("Goat");
 Console.WriteLine("Goat");
 Console.WriteLine("Goat");
 Console.WriteLine("Goat");
-Console.WriteLine("Goat");
-Console.WriteLine("Goat");
